@@ -1,0 +1,9 @@
+{
+    "distDir":          "dist",
+    "srcDir":           "src",
+    "srcFile":          "settings.xml",
+    "baseTaxonomyFile": "base_taxonomy.json",
+    "basePostFile":     "base_post.json",
+    "distTaxonomyFile": "output_taxonomy.json",
+    "distPostFile":     "output_post.json"
+}

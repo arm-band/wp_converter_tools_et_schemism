@@ -1,0 +1,16 @@
+{
+    "name": "wp_converter_tools_et_schemism",
+    "version": "0.0.1",
+    "description": "WordPress の Toolset Types の定義を Custom Post Type UI の定義に変換するスニペット",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./index",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "native2ascii": "^0.0.5",
+        "xml2js": "^0.4.23"
+    }
+}
